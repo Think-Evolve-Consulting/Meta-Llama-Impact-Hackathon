@@ -1,0 +1,6 @@
+azure-ai-inference
+aiohttp
+ipykernel
+python-dotenv
+pandas
+openpyxl
