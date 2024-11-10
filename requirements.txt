@@ -4,3 +4,4 @@ ipykernel
 python-dotenv
 pandas
 openpyxl
+together
